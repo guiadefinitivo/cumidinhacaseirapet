@@ -708,10 +708,10 @@ a {
   transition: color 0.6s;
 }
 .cid-taQ9UY4y75 {
-  background-image: url("../../../assets/images/background10.jpg");
+  background-image: url("../../../assets/images/alimentos-caseiros-para-pets-800x500.png");
 }
 .cid-taQ9UY4y75 .mbr-section-title {
-  color: #e43f3f;
+  color: #dd0000;
 }
 .cid-taQfaM6u33 {
   padding-top: 6rem;
@@ -765,6 +765,22 @@ a {
 .cid-taQi8C8oK6 .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-tb22dltjbz {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tb22dltjbz .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tb22dltjbz .row {
+  flex-direction: row-reverse;
+}
+.cid-tb22dltjbz img {
+  width: 100%;
 }
 .cid-taQkrMnJaQ {
   padding-top: 5rem;
